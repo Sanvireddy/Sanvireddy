@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sanvi Reddy
 
-<!--
-**Sanvireddy/Sanvireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Software Engineer at Goldman Sachs | IIT Mandi graduate | Aspiring Data Scientist / Machine Learning Engineer
 
-Here are some ideas to get you started:
+I’m currently working as a Associate Software Engineer at Goldman Sachs and actively transitioning into Data Science / Machine Learning Engineering roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m especially interested in building data-driven and AI-powered systems that solve practical problems end to end.
+
+## What I’m Focused On
+- Machine Learning and Statistics
+- NLP and LLM applications
+
+## Tech Stack
+
+**Languages:**  
+Python, SQL, Java, MATLAB
+
+**Data Analysis & Machine Learning:**  
+NumPy, Pandas, scikit-learn, Statistics, Machine Learning
+
+**AI / NLP:**  
+Natural Language Processing (NLP), Large Language Models (LLMs), Prompt Engineering
+
+**Backend & Application Development:**  
+Spring Boot, Apache Camel
+
+**Frontend:**  
+React
+
+**Databases & Data Platforms:**  
+SQLite, Snowflake
+
+**DevOps & Deployment:**  
+Docker, Kubernetes
+
+**Testing & Developer Tools:**  
+Git, GitHub, Cypress
