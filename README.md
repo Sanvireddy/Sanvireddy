@@ -23,3 +23,7 @@
 
 ### 🌍 Beyond the Screen
 ✈️🍜 I love travelling and exploring different cuisines — both involve curiosity, risk, and occasionally very good outcomes!
+
+### How to reach me
+- [Email](sanvireddy.2001@gmail.com)
+- [Linked In](https://www.linkedin.com/in/sanvireddy/)
