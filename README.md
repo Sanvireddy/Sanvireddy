@@ -1,21 +1,25 @@
-# Hi, I'm Sanvi Reddy
+<h1 align="center">Hi, I'm Sanvi Reddy 👋</h1>
 
-Associate Software Engineer at Goldman Sachs | IIT Mandi graduate | Aspiring Data Scientist / Machine Learning Engineer
+<p align="center">
+  Associate Software Engineer at Goldman Sachs • IIT Mandi graduate (2019-23) <br>
+</p>
 
-I’m currently working as a Associate Software Engineer at Goldman Sachs and actively transitioning into Data Science / Machine Learning Engineering roles.
+<p align="center">
+  🤖 Into ML, NLP, and building AI systems that do more than just sound smart!
+</p>
 
-I’m especially interested in building data-driven and AI-powered systems that solve practical problems end to end.
+<p align="center">
+  🔎 I enjoy digging deep into problems, which is a polite way of saying I can disappear into research mode for hours and still call it fun!
+</p>
 
-## What I’m Focused On
-- Machine Learning and Statistics
-- NLP and LLM applications
+---
 
-## 🛠 Tech Stack
+### A few things I work with
+🐍 **Code:** Python, SQL, Java, MATLAB  
+🧠 **ML/AI:** Machine Learning, Statistics, NumPy, Pandas, scikit-learn, NLP, LLMs  
+🛠 **Build:** Spring Boot, Apache Camel, React  
+☁️ **Infra & Data:** SQLite, Snowflake, Docker, Kubernetes  
+🔧 **Tools:** Git, GitHub, Cypress  
 
-- **Languages:** Python, SQL, Java, MATLAB
-- **Machine Learning & AI:** NumPy, Pandas, scikit-learn, Statistics, Machine Learning, NLP, LLMs, Prompt Engineering
-- **Databases:** SQLite, Snowflake
-- **Backend:** Spring Boot, Apache Camel
-- **Frontend:** React
-- **DevOps:** Docker, Kubernetes
-- **Tools:** Git, GitHub, Cypress
+### 🌍 Beyond the Screen
+✈️🍜 I love travelling and exploring different cuisines — both involve curiosity, risk, and occasionally very good outcomes!
