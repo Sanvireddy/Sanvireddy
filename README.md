@@ -10,28 +10,12 @@ I’m especially interested in building data-driven and AI-powered systems that 
 - Machine Learning and Statistics
 - NLP and LLM applications
 
-## Tech Stack
+## 🛠 Tech Stack
 
-**Languages:**  
-Python, SQL, Java, MATLAB
-
-**Data Analysis & Machine Learning:**  
-NumPy, Pandas, scikit-learn, Statistics, Machine Learning
-
-**AI / NLP:**  
-Natural Language Processing (NLP), Large Language Models (LLMs), Prompt Engineering
-
-**Backend & Application Development:**  
-Spring Boot, Apache Camel
-
-**Frontend:**  
-React
-
-**Databases & Data Platforms:**  
-SQLite, Snowflake
-
-**DevOps & Deployment:**  
-Docker, Kubernetes
-
-**Testing & Developer Tools:**  
-Git, GitHub, Cypress
+- **Languages:** Python, SQL, Java, MATLAB
+- **Machine Learning & AI:** NumPy, Pandas, scikit-learn, Statistics, Machine Learning, NLP, LLMs, Prompt Engineering
+- **Databases:** SQLite, Snowflake
+- **Backend:** Spring Boot, Apache Camel
+- **Frontend:** React
+- **DevOps:** Docker, Kubernetes
+- **Tools:** Git, GitHub, Cypress
