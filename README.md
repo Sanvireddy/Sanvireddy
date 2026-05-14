@@ -15,13 +15,20 @@
 ---
 
 ### A few things I work with
-🐍 **Code:** Python, SQL, Java, MATLAB  
-📊 **Data Science:** Statistics, Hypothesis Testing, A/B Testing, Data Analysis, Feature Engineering, Exploratory Data Analysis (EDA), Data Visualization, Experimentation
-🧠 **Machine Learning:** Machine Learning, Deep Learning, Recommendation Systems, NLP, LLMs, RAG (Retrieval-Augmented Generation), Predictive Modeling, Model Evaluation
-🤖 **ML/AI Stack:** scikit-learn, Pandas, NumPy, PyTorch, LangChain, FAISS, Vector Databases, Hugging Face Transformers
-📈 **Recommendation Systems:** Collaborative Filtering, Content-Based Filtering, Two-Tower Retrieval Models, Ranking Systems, Embedding-Based Retrieval
+🐍 **Code:** Python, SQL, Java, MATLAB   
+
+📊 **Data Science:** Statistics, Hypothesis Testing, A/B Testing, Data Analysis, Feature Engineering, EDA, Data Visualization 
+
+🧠 **Machine Learning:** ML, Deep Learning, Recommendation Systems, NLP, LLMs, RAG (Retrieval-Augmented Generation), Predictive Modeling, Model Evaluation  
+
+🤖 **ML/AI Stack:** scikit-learn, Pandas, NumPy, PyTorch, LangChain, FAISS, Vector Databases, Hugging Face Transformers   
+
+📈 **Recommendation Systems:** Collaborative Filtering, Content-Based Filtering, Two-Tower Retrieval Models, Ranking Systems, Embedding-Based Retrieval   
+
 🛠 **Build:** Spring Boot, Apache Camel, React  
+
 ☁️ **Infra & Data:** SQLite, Snowflake, Docker, Kubernetes  
+
 🔧 **Tools:** Git, GitHub, Cypress  
 
 ### 🌍 Beyond the Screen
