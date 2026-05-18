@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sanvi Reddy 👋</h1>
 
 <p align="center">
-  Associate Engineer at Goldman Sachs • IIT Mandi graduate (2019-23) <br>
+  Engineering Associate @ Goldman Sachs, building LLM-based document intelligence pipelines in production • IIT Mandi graduate (2019-23) <br>
 </p>
 
 <p align="center">
@@ -13,6 +13,11 @@
 </p>
 
 ---
+
+### Side Projects
+**JobFit-AI** — LLM extraction + FAISS semantic job matching (93.3% field accuracy)   
+**RecSys** — Two-Tower neural retrieval with BPR loss, FAISS ANN, evaluated with HR@10 and NDCG@10   
+**NanoGPT** — GPT built from PyTorch primitives (no HuggingFace)   
 
 ### A few things I work with
 🐍 **Code:** Python, SQL, Java, MATLAB   
